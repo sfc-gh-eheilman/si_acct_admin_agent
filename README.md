@@ -17,7 +17,7 @@ Please be aware of the following:
 Before you begin, ensure you have:
 
 1.  Access to a Snowflake account with `ACCOUNTADMIN` privileges (or a role with sufficient permissions to create the necessary objects).
-2.  The [Snowflake Documentation CKE](https://www.google.com/search?q=https://quickstarts.snowflake.com/guide/accelerate_documentation_understanding_with_cke/index.html) installed in the same account.
+2.  The [Snowflake Documentation CKE](https://quickstarts.snowflake.com/guide/accelerate_documentation_understanding_with_cke/index.html) installed in the same account.
 
 -----
 
@@ -25,11 +25,11 @@ Before you begin, ensure you have:
 
 The installation is run via two SQL scripts. You should execute them in the following order in your Snowflake environment (e.g., via Snowsight):
 
-1.  **[001\_SematicViewSetup.sql](https://www.google.com/search?q=https://github.com/sfc-gh-eheilman/si_acct_admin_agent/blob/main/001_SematicViewSetup.sql)**
+1.  **[001\_SematicViewSetup.sql](https://github.com/sfc-gh-eheilman/si_acct_admin_agent/blob/main/001_SematicViewSetup.sql)**
 
       * This script sets up the necessary Semantic Views that the agent will query.
 
-2.  **[002\_AgentSetup.sql](https://www.google.com/search?q=https://github.com/sfc-gh-eheilman/si_acct_admin_agent/blob/main/002_AgentSetup.sql)**
+2.  **[002\_AgentSetup.sql](https://github.com/sfc-gh-eheilman/si_acct_admin_agent/blob/main/002_AgentSetup.sql)**
 
       * This script creates the agent itself.
 
