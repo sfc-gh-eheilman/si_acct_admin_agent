@@ -17,7 +17,7 @@ Please be aware of the following:
 Before you begin, ensure you have:
 
 1.  Access to a Snowflake account with `ACCOUNTADMIN` privileges (or a role with sufficient permissions to create the necessary objects).
-2.  The [Snowflake Documentation CKE](https://quickstarts.snowflake.com/guide/accelerate_documentation_understanding_with_cke/index.html) installed in the same account.
+2.  The [Snowflake Documentation CKE](https://www.snowflake.com/en/developers/guides/getting-started-with-snowflake-intelligence-and-cke/) installed in the same account.
 
 -----
 
